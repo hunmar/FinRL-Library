@@ -15,5 +15,7 @@ ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/
 RUN chmod +x /usr/bin/tini
 ENTRYPOINT ["/usr/bin/tini", "--"]
 
+ENV LD_LIBRARY_PATH:="/usr/local/cuda/lib64:/usr/local/cuda/lib64/lib:${LD_LIBRARY_PATH}"
 
+CMD ["screen", "-d", "-m", "tensorboard", "--bind_all", "--logdir=./tensorboard_log/a2c/;./tensorboard_log/ppo2/;./tensorboard_log/ddpg/"]
 CMD ["jupyter", "lab", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--NotebookApp.token=''","--NotebookApp.password=''","--allow-root"]

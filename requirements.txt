@@ -34,7 +34,7 @@ ccxt
 #print colors
 colorama
 
-#tensorboard
+tensorboard
 tensorflow
 
 #notebooks need

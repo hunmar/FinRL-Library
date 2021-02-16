@@ -31,7 +31,7 @@ RESULTS_DIR = f"results"
 
 
 ## time_fmt = '%Y-%m-%d'
-START_DATE = "2000-01-01"
+START_DATE = "2015-01-01"
 END_DATE = "2021-01-01"
 
 START_TRADE_DATE = "2019-01-01"
@@ -131,6 +131,11 @@ DOW_30_TICKER = [
     "DD",
 ]
 
+TOPCHIK_TICKER = [
+    "TSLA",
+    "AMZN"
+]
+
 # Nasdaq 100 constituents at 2019/01
 NAS_100_TICKER = [
     "AMGN",
@@ -171,7 +176,6 @@ NAS_100_TICKER = [
     "ORLY",
     "CERN",
     "BKNG",
-    "MYL",
     "MU",
     "DLTR",
     "ALXN",
