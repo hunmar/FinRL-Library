@@ -132,8 +132,25 @@ DOW_30_TICKER = [
 ]
 
 TOPCHIK_TICKER = [
-    "TSLA",
-    "AMZN"
+    "POLY.ME",
+    "YNDX.ME",
+    "ALRS.ME",
+    "AFLT.ME",
+    "VTBR.ME",
+    "GAZP.ME",
+    "GMKN.ME",
+    "IRAO.ME",
+    "LKOH.ME",
+    "MGNT.ME",
+    "MOEX.ME",
+    "NLMK.ME",
+    "NVTK.ME",
+    "ROSN.ME",
+    "SBER.ME",
+    "CHMF.ME",
+    "AFKS.ME",
+    "SNGS.ME",
+    "TATN.ME"
 ]
 
 # Nasdaq 100 constituents at 2019/01
