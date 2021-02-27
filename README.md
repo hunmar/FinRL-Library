@@ -14,7 +14,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![PyPI](https://img.shields.io/pypi/v/finrl.svg)](https://pypi.org/project/finrl/)
 
-FinRL is an open source library that provides practitioners a unified framework for pipeline strategy development. **In reinforcement learning (or deep RL), an agent learns by continuously interacting with an environment, in a trial-and-error manner, making sequential decisions under uncertainty and achieving a balance between exploration and exploitation.** The open source community **AI4Finance** (to efficiently automate trading) provides educational resources about deep reinforcement learning (DRL) in quantitative finance. 
+FinRL is an open source library that provides practitioners a unified framework for pipeline strategy development. **In reinforcement learning (or Deep RL), an agent learns by continuously interacting with an environment, in a trial-and-error manner, making sequential decisions under uncertainty and achieving a balance between exploration and exploitation.** The open source community **AI4Finance** (to efficiently automate trading) provides educational resources about deep reinforcement learning (DRL) in quantitative finance. 
 
 **To contribute?**  Please check the call for contributions at the end of this page.
 
@@ -22,7 +22,7 @@ Feel free to report bugs using Github issues, join our mailing list: [AI4Finance
 
 <br/>
 
-<a href="https://join.slack.com/t/ai4financeworkspace/shared_invite/zt-kq0c9het-FCSU6Y986OnSw6Wb5EkEYw" target="\_blank">
+<a href="https://join.slack.com/t/ai4financeworkspace/shared_invite/zt-myfwpei8-omxzFpznO~hMvg_FMnYRXg" target="\_blank">
 	<div align="center">
 		<img src=figs/join_slack.png width="40%"/>
 	</div>
@@ -249,7 +249,7 @@ The stock data we use is pulled from Yahoo Finance API.
     author  = {Liu, Xiao-Yang and Yang, Hongyang and Chen, Qian and Zhang, Runjia and Yang, Liuqing and Xiao, Bowen and Wang, Christina Dan},
     journal = {Deep RL Workshop, NeurIPS 2020},
     title   = {FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance},
-    url     = {},
+    url     = {https://arxiv.org/pdf/2011.09607.pdf},
     year    = {2020}
 }
 ```
