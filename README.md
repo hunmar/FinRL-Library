@@ -34,7 +34,7 @@ Roadmaps of FinRL:
 
 **FinRL 1.0**: entry-level toturials for beginners, with a demonstrative and educational purpose.
 
-**FinRL 2.0**: intermediate-level framework for full-stack developers and professionals. As a Starter, check out [ElegantRL](https://github.com/AI4Finance-LLC/ElegantRL)  
+**FinRL 2.0**: intermediate-level framework for full-stack developers and professionals. Check out [ElegantRL](https://github.com/AI4Finance-LLC/ElegantRL)  
 
 FinRL provides a unified machine learning framework for various markets, SOTA DRL algorithms, benchmark finance tasks (portfolio allocation, cryptocurrency trading, high-frequency trading), live trading, etc. 
 
@@ -77,6 +77,8 @@ We published [papers in FinTech](http://www.tensorlet.com/projects/ai-in-finance
 [Analyticsindiamag.com] [How To Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
 
 [量化投资与机器学习] [基于深度强化学习的股票交易策略框架（代码+文档)](https://www.mdeditor.tw/pl/p5Gg)
+
+[运筹OR帷幄] [领读计划NO.10 | 基于深度增强学习的量化交易机器人：从AlphaGo到FinRL的演变过程](https://zhuanlan.zhihu.com/p/353557417)
 
 [Neurohive] [FinRL: глубокое обучение с подкреплением для трейдинга](https://neurohive.io/ru/gotovye-prilozhenija/finrl-glubokoe-obuchenie-s-podkrepleniem-dlya-trejdinga/)
 
